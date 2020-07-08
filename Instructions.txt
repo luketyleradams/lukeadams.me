@@ -2,5 +2,6 @@
 2)Check git status, notice the changes you made i red
 3)git add .
 4)Check git status, nitoce changes are in green
+5)git commit -m "#####" .
 5)git pull
 6)git push -u origin master
